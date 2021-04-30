@@ -32,20 +32,20 @@ The requirements are spacy, pandas and sklearn.
   python -m spacy download en_core_web_sm
   ```
   ## PANDAS:
-  - **using pip:**
+ - **using pip:**
   ```
   pip install pandas
   ```
-  - **using conda:**
+ - **using conda:**
   ```
   conda install -pandas
   ```
 ## SKLEARN:
-  - **using pip:**
+- **using pip:**
   ```
   pip3 install -U scikit-learn
   ```
-  - **using conda:**
+- **using conda:**
   ```
   conda install -c conda-forge scikit-learn 
   ```
