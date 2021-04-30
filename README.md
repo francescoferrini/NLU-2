@@ -40,7 +40,7 @@ The requirements are spacy, pandas and sklearn.
   ```
   conda install -pandas
   ```
-## SKLEARN:
+## SCIKIT-LEARN:
 - **using pip:**
   ```
   pip3 install -U scikit-learn
