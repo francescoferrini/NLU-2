@@ -3,11 +3,12 @@
 For this assignement there are:
 - dada directory with the txt files
 - utils.py and conll.py with some important functions used in the main files
-- 3 main files, one for each point of the assignement
+- 3 main files, one for each point of the assignement 
+- A pdf report
 
 The requirements are spacy, pandas and sklearn. 
 
-
+## SPACY:
 - **using pip:**
   ```
   pip install -U spacy
@@ -30,3 +31,22 @@ The requirements are spacy, pandas and sklearn.
   pip install .
   python -m spacy download en_core_web_sm
   ```
+  ## PANDAS:
+  - **using pip:**
+  ```
+  pip install pandas
+  ```
+  - **using conda:**
+  ```
+  conda install -pandas
+  ```
+## SKLEARN:
+  - **using pip:**
+  ```
+  pip3 install -U scikit-learn
+  ```
+  - **using conda:**
+  ```
+  conda install -c conda-forge scikit-learn 
+  ```
+
